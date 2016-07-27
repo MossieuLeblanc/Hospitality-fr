@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress ALL -->
+<LanguageData>
+	
+	<Warden.labelShort>Négocier</Warden.labelShort>
+	<Warden.pawnLabel>Diplomate</Warden.pawnLabel>
+	<Warden.gerundLabel>En train de négocier</Warden.gerundLabel>
+	<Warden.description>Les diplomates traitent avec les prisonniers et des visiteurs.</Warden.description>
+	<Warden.verb>Traiter</Warden.verb>
+
+</LanguageData>
