@@ -27,8 +27,8 @@
   <VisitorsLeavingNormal>Ils admettent votre hospitalité.</VisitorsLeavingNormal>
   <VisitorsLeavingBad>Ils n'ont pas apprécié leur séjour. ({1})</VisitorsLeavingBad>
   <VisitorsLeavingAwful>Ils ne voudront pas revenir rendre visite de si tôt ({1})</VisitorsLeavingAwful>
-  <VisitorSatisfied>{0} a apprécié son séjour à {1}. {2} vous laisse {3}.</VisitorSatisfied>
-  <VisitorVerySatisfied>{0} a beaucoup apprécié son séjour à {1}. {2} vous laisse {3}.</VisitorVerySatisfied>
+  <VisitorSatisfied>{0} a apprécié son séjour. {2} vous laisse {3}.</VisitorSatisfied>
+  <VisitorVerySatisfied>{0} a beaucoup apprécié son séjour. {2} vous laisse {3}.</VisitorVerySatisfied>
   
   <MessageMissingPawnFactionAnger>Un membre de la faction {0} est porté disparu sur votre territoire ! ({2})</MessageMissingPawnFactionAnger>
   <MessageMissingPawnsFactionAnger>{1} membres de la faction {0} sont portés disparu sur votre territoire ! ({2})</MessageMissingPawnsFactionAnger>

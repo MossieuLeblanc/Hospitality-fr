@@ -6,6 +6,6 @@
 	<PleaseGuestChance.description>Augmente les chances d'améliorer les relations avec des visiteurs.</PleaseGuestChance.description>
 
 	<RecruitRelationshipDamage.label>recruter (dégrade les relations)</RecruitRelationshipDamage.label>
-	<RecruitRelationshipDamage.description>Déteriore les relations avec la faction de cette personne lorsque le recrutement est un succès. The damage done to the relationship with the faction of this person when successfully recruiting.</RecruitRelationshipDamage.description>
+	<RecruitRelationshipDamage.description>Déteriore les relations avec la faction de cette personne lorsque le recrutement est un succès.</RecruitRelationshipDamage.description>
 
 </LanguageData>
