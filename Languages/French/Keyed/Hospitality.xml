@@ -27,28 +27,48 @@
   <VisitorsLeavingNormal>Ils admettent votre hospitalité.</VisitorsLeavingNormal>
   <VisitorsLeavingBad>Ils n'ont pas apprécié leur séjour. ({1})</VisitorsLeavingBad>
   <VisitorsLeavingAwful>Ils ne voudront pas revenir rendre visite de si tôt ({1})</VisitorsLeavingAwful>
-  <VisitorSatisfied>{0} a apprécié son séjour. {2} vous laisse {3}.</VisitorSatisfied>
-  <VisitorVerySatisfied>{0} a beaucoup apprécié son séjour. {2} vous laisse {3}.</VisitorVerySatisfied>
-  
+  <VisitorSatisfied>{0} a apprécié son séjour à {1}. {2} vous laisse {3}.</VisitorSatisfied>
+  <VisitorVerySatisfied>{0} a beaucoup apprécié son séjour à {1}. {2} vous laisse {3}.</VisitorVerySatisfied>
+  <VisitorsSentAway>Vous les avez renvoyés.</VisitorsSentAway>
+  <MessageVisitorsLeavingCold>Les invités venant de {0} partent parce qu'il fait trop froid.</MessageVisitorsLeavingCold>
+
   <MessageMissingPawnFactionAnger>Un membre de la faction {0} est porté disparu sur votre territoire ! ({2})</MessageMissingPawnFactionAnger>
   <MessageMissingPawnsFactionAnger>{1} membres de la faction {0} sont portés disparu sur votre territoire ! ({2})</MessageMissingPawnsFactionAnger>
   <MessageKilledPawnFactionAnger>La faction {0} a eu vent de ce qui est arrivé à {1} et vous blâme pour celà. ({2})</MessageKilledPawnFactionAnger>
   <LetterLabelMissingPawnsFactionAnger>Chef irrité</LetterLabelMissingPawnsFactionAnger>
+  
+  <VisitorsReturnSoon>Ils reviendront visiter bientôt.</VisitorsReturnSoon>
+  <VisitorsReturnWhile>Ils reviendront visiter dans un bon moment.</VisitorsReturnWhile>
+  <VisitorsReturnNotSoon>Ils ne reviendront pas de si tôt.</VisitorsReturnNotSoon>
+  <VisitorsReturnNot>Ils en ont eu assez de vous.</VisitorsReturnNot>
 
 
   <!-- Tab -->
   <ConvincingLeft>Nécessite de convaincre</ConvincingLeft>
-  <Trust>Confiance des colons</Trust>
+  <RecruitmentChance>Chance de recrutement</RecruitmentChance>
+  <RecruitmentPenalty>Relations détériorés lorsque recruté</RecruitmentPenalty>
   <RecruitmentPenalty>Pénalité de relation si recrutement</RecruitmentPenalty>
   <ImproveRelationship>Essayer d'améliorer les relations avec la faction</ImproveRelationship>
   <LeaveAlone>Laisser tranquille</LeaveAlone>
   <FactionGoodwill>Bienveillance de la faction</FactionGoodwill>
   <Hospitality>Hospitalité</Hospitality>
-  <SetDefault>Par défaut</SetDefault>
+  <MakeDefault>Par défaut</MakeDefault>
+  <SendAway>Renvoyer</SendAway>
+  <SendAwayQuestion>Etes vous sur de vouloir renvoyer les visiteurs venant de {0} ?</SendAwayQuestion>
+  <TrustTooLow>NAME ne connait ou n'aime pas assez vos colons.</TrustTooLow>
+  <IsATrader>NAME fait partie d'une caravane marchande et n'est pas un invité.</IsATrader>
 
   <!-- Infos -->
   <StatsReport_FinalAdjustment>Réglage</StatsReport_FinalAdjustment>
   
   <!-- Bed -->
   <ForGuestUse>Pour l'usage des visiteurs</ForGuestUse>
+  
+  <!-- Rescue -->
+  <RescuedInitial>Le {0} du nom de NAME que vous avez sauvé(e) vous est très reconnaissant(e) de l'avoir sauvé(e) et voudrait rester dans votre colonie.\n\nSes caractéristiques sont: {1}.</RescuedInitial>
+  <RescuedInitial_Accept>L'accepter</RescuedInitial_Accept>
+  <RescuedInitial_Reject>Rejeter la requête</RescuedInitial_Reject>
+  
+  <!-- Wanderer -->
+  <WandererInitial>NAME, venant de {0} était en train d'érrer non loin d'ici et remarqua que vous pourriez avoir besoin d'aide. HECAP voudrait rejoindre votre colonie pour un moment.\n\nHECAP est un(e) {1} et ses caractéristiques sont {2}.</WandererInitial>
 </LanguageData>
