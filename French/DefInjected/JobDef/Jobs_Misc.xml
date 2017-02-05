@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+	
+	<CharmGuest.reportString>Essaye de convaincre TargetA de rester dans la colonie.</CharmGuest.reportString>
+	<GuestImproveRelationship.reportString>Essaye d'améliorer les relations avec la faction de TargetA.</GuestImproveRelationship.reportString>
+	<BuyItem.reportString>Va acheter des choses à TargetA.</BuyItem.reportString>
+	<BrowseItems.reportString>Règle TargetA.</BrowseItems.reportString>
+
+</LanguageData>

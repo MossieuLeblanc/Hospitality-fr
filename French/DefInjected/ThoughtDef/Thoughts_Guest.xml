@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<rep>
+		<path>GuestConvinced.stages[0].label</path>
+		<trans>convaincu par la tentative de recrutement</trans>
+	</rep>
+	<rep>
+		<path>GuestConvinced.stages[0].labelSocial</path>
+		<trans>m'a convaincu</trans>
+	</rep>
+	<rep>
+		<path>GuestConvinced.stages[0].description</path>
+		<trans>Ce colon et moi avons parlons à propos de la colonie. Cet endroit semble agréable...</trans>
+	</rep>
+
+	<rep>
+		<path>GuestOffended.stages[0].label</path>
+		<trans>m'a offensé</trans>
+	</rep>
+	<rep>
+		<path>GuestOffended.stages[0].labelSocial</path>
+		<trans>offensé par une tentative de recrutement</trans>
+	</rep>
+	<rep>
+		<path>GuestOffended.stages[0].description</path>
+		<trans>Ce colon a essayé de me recruter. Mais je ne veux pas quitter ma faction !</trans>
+	</rep>
+
+	<rep>
+		<path>GuestAngered.stages[0].label</path>
+		<trans>irrité en voyant un recrutement</trans>
+	</rep>
+	<rep>
+		<path>GuestAngered.stages[0].labelSocial</path>
+		<trans>m'a irrité en recrutant</trans>
+	</rep>
+	<rep>
+		<path>GuestAngered.stages[0].description</path>
+		<trans>Ces gars essayent de voler nos membres !</trans>
+	</rep>
+
+	<rep>
+		<path>GuestOffendedRelationship.stages[0].label</path>
+		<trans>insulté par un colon</trans>
+	</rep>
+	<rep>
+		<path>GuestOffendedRelationship.stages[0].labelSocial</path>
+		<trans>m'a insulté</trans>
+	</rep>
+	<rep>
+		<path>GuestOffendedRelationship.stages[0].description</path>
+		<trans>Ces gars sont des nazes !</trans>
+	</rep>
+
+	<rep>
+		<path>GuestPleasedRelationship.stages[0].label</path>
+		<trans>charmé par un colon</trans>
+	</rep>
+	<rep>
+		<path>GuestPleasedRelationship.stages[0].labelSocial</path>
+		<trans>m'a charmé</trans>
+	</rep>
+	<rep>
+		<path>GuestPleasedRelationship.stages[0].description</path>
+		<trans>Des gens si agréables !</trans>
+	</rep>
+
+	<rep>
+		<path>GuestDismissiveAttitude.stages[0].label</path>
+		<trans>fatigué de parler</trans>
+	</rep>
+	<rep>
+		<path>GuestDismissiveAttitude.stages[0].description</path>
+		<trans>J'en ai assez de parler. Laisses moi seul.</trans>
+	</rep>
+
+</LanguageData>
