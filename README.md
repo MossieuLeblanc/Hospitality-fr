@@ -1,5 +1,5 @@
 # Hospitality-fr
-Traduction française du mod Hospitality (datant de févier 2017)
+Traduction française du mod Hospitality (datant de février 2017)
 
 !! Ne fonctionne pas avec le mod steamworkshop (pas prévu à l'intégration) !!
 
